@@ -7,7 +7,7 @@ If topic has new content, a notification message will be sent to a notification 
 
 ## Requirements in breaf
 * Build a server application (in any programing language that can run on server: Java / Python / NodeJS / Ruby / etc.)
-  Once started, that application will check periodicly (periodic interval will be defined later) if new content exists on an RSS feed (defeined bellow), on a     particular topic (defined later) with the provided keywords (defined below).
+* Once started, that application will check periodicly (periodic interval will be defined later) if new content exists on an RSS feed (defeined bellow), on a     particular topic (defined later) with the provided keywords (defined below).
 
 
 ## Technical requirements
