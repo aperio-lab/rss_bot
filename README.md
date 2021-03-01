@@ -20,5 +20,5 @@ If topic has new content, a notification message will be sent to a notification 
 ## How to post your home assignment solution
 * Clone this repository
 * Checkout new branch with your solution
-* Create a PR to develop
+* Create a PR to the main branch
 * **Extra** credit will be given for an online demo. You may use any free clound application hosting service such as: [Heroku](https://www.Heroku.com) / [AWS](https://aws.amazon.com/) / [Azure](https://azure.microsoft.com/) / [Google Clound](https://cloud.google.com/) or any other familier to you clound compute service.
