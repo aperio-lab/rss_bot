@@ -2,8 +2,8 @@
 RSS Notification Bot - New candidates home assignment
 
 ## The idea
-An pplication that acts as new content listener, periodicly checking if a website or API has new content on a subscribed topic. 
-If topic has new content, a notification message will be sent to a notification channel, notifing all subscribers that new content on particular topic exists, with the content included.
+Free style RSS listener application that acts as new content listener, periodicly checking if a website or API has new content on a subscribed topic. 
+If topic has new content, a notification message will be sent to a notification channel, notifing all subscribers that new content on particular topic exists, with the content attached.
 
 ## Requirements in breaf
 * Build a server application (in any programing language that can run on server: Java / Python / NodeJS / Ruby / etc.)
