@@ -12,7 +12,7 @@ If topic has new content, a notification message will be sent to a notification 
 
 
 ## Technical requirements
-** RSS feed API: https://www.geektime.com/rss/ or https://www.theverge.com/rss/index.xml
+* RSS feed API: https://www.geektime.com/rss/ or https://www.theverge.com/rss/index.xml
 * Periodic interval: 30 min
 * Topic category: "cyber security" (Some RSS feeds does not categorize their content, in such case you the BOT will need to seach for the relevant content by key-words: cyber, security etc.
 * Upon new relevant content available on the RSS feed, notify the subscriber on his prefered channel: Slack / Telegram / any other application that expose and API that can receive notification (Webhook).
